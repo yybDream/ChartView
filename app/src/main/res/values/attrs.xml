@@ -1,0 +1,10 @@
+<resources>
+    <!--Rotate3dAnimation-->
+    <declare-styleable name="chartView">
+        <attr name="xyTextColor" format="color"/>
+        <attr name="xyTextSize" format="float"/>
+        <attr name="pivotX" format="fraction"/>
+        <attr name="pivotY" format="fraction"/>
+    </declare-styleable>
+
+</resources>
